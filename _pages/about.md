@@ -27,8 +27,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## 👋 About Me
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Hi! I’m **Soo Yeon Kim**, a Ph.D. candidate in Industrial & Systems Engineering at the University of Wisconsin–Madison, specializing in **Human Factors Engineering** and **Human–Automation Interaction**. I work closely with [Dr. John D. Lee](https://scholar.google.com/citations?user=Qd6nZCAAAAAJ&hl=en&oi=ao), exploring how human cognition, emotion, and behavior interact with automation and emerging technologies.  
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research combines **mixed-methods UX approaches**—from large-scale experiments and physiological measurements to interviews and journaling studies—to understand how people think, feel, and act when interacting with complex systems. Much of my work focuses on **transportation and mobility**: exploring how prosocial behaviors in traffic, cooperative design, and trust in automation can shape well-being 🌱, safety 🚦, and user experience.  
+
+I enjoy bridging human insights with technical design: developing experiments in **Unity**, analyzing cognitive and behavioral data with **Python/R**, and translating findings into actionable design recommendations. This blend of qualitative and quantitative perspectives helps me design user-centered systems that are both scientifically rigorous and practically meaningful.  
+
+Beyond research, I’m passionate about **UX research roles** where I can connect human behavior with product innovation. And when I’m not thinking about experiments or design problems, I’m very much a tea person ☕—you’ll often find me exploring new blends and tea shops around town.  
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kim2246/) or check out my academic work on [Google Scholar](https://scholar.google.com/citations?user=wRR6mioAAAAJ&hl=en&oi=ao). ✨
+
