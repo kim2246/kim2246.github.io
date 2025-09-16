@@ -3,13 +3,12 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  <a href="https://engineering.wisc.edu/departments/industrial-systems-engineering/" target="_blank">Ph.D. Candidate @ UW–Madison ISyE</a><br/>
-  Human Factors & Human–Automation Interaction · Mixed-Methods UX Researcher<br/>
-  Research ⇄ Design ⇆ People
+  **Ph.D. Candidate** @ <a href="https://engineering.wisc.edu/departments/industrial-systems-engineering/" target="_blank">UW–Madison ISyE</a><br/>
+  Human Factors & Human–Automation Interaction · Mixed-Methods UX Researcher<br/
 
 profile:
   align: right
-  image: prof_pic1.jpg
+  image: prof_pic3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>3127 Mechanical Engineering</p>
@@ -30,15 +29,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## 👋 About Me
+Hi, thanks for stopping by! 👋
+I specialize in **Human Factors** and **Human–Automation Interaction**, working with [Dr. John D. Lee](https://scholar.google.com/citations?user=Qd6nZCAAAAAJ&hl=en&oi=ao) to study how human cognition, emotion, and behavior interact with emerging technologies.  
 
-Hi! I’m **Soo Yeon Kim**, specializing in **Human Factors Engineering** and **Human–Automation Interaction**. I work closely with [Dr. John D. Lee](https://scholar.google.com/citations?user=Qd6nZCAAAAAJ&hl=en&oi=ao), exploring how human cognition, emotion, and behavior interact with emerging technologies.  
+My research uses **mixed-methods UX approaches**—from experiments and physiological measures to interviews and journaling—to understand how people think, feel, and act in complex systems. Much of this work centers on **transportation and mobility**, where I explore how prosociality shapes well-being 🌱, safety 🚦, and user experience.  
 
-My research combines **Mixed-methods UX approaches** - from large-scale experiments and physiological measurements to interviews and journaling studies - to understand how people think, feel, and act when interacting with complex systems. Much of my work focuses on **transportation and mobility**: defining and exploring how prosociality can shape well-being 🌱, safety 🚦, and user experience.  
+I enjoy bridging human insights with design: building experiments in **Unity**, analyzing behavioral data with **Python/R**, and translating findings into actionable design recommendations. This mix of qualitative and quantitative methods helps me create systems that are both rigorous and user-centered.  
 
-I enjoy bridging human insights with technical design: developing experiments in **Unity**, analyzing cognitive and behavioral data with **Python/R**, and translating findings into actionable design recommendations. This blend of qualitative and quantitative perspectives helps me design user-centered systems that are both scientifically rigorous and practically meaningful.  
-
-Based on my research, I’m passionate about **UX research roles** where I can connect human behavior with product and systeminnovation.
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kim2246/) or check out my academic work on [Google Scholar](https://scholar.google.com/citations?user=wRR6mioAAAAJ&hl=en&oi=ao). ✨
-
+I’m passionate about **UX research roles** that connect human behavior with product and system innovation.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kim2246/) or check out my academic work on [Google Scholar](https://scholar.google.com/citations?user=wRR6mioAAAAJ&hl=en&oi=ao) ✨ 
