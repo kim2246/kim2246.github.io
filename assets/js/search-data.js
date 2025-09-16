@@ -508,14 +508,14 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/kim2246/", "_blank");
+          window.open("https://www.linkedin.com/in/kim2246", "_blank");
         },
       },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=https://scholar.google.com/citations?user=wRR6mioAAAAJ&hl=en&oi=ao", "_blank");
+          window.open("https://scholar.google.com/citations?user=wRR6mioAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
