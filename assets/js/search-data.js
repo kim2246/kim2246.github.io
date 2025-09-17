@@ -52,13 +52,8 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-joined-cognitive-systems-lab-csl-under-the-supervision-of-prof-john-d-lee-as-a-phd-student",
-          title: 'I joined Cognitive Systems Lab (CSL) under the supervision of Prof. John D....',
+      },{id: "news-i-joined-cognitive-systems-lab-csl-under-the-supervision-of-prof-john-d-lee-as-a-phd-student",
+          title: '🎓 I joined Cognitive Systems Lab (CSL) under the supervision of Prof. John...',
           description: "",
           section: "News",},{id: "news-i-joined-the-toyota-csrc-project-toward-responsive-driving-automation-as-a-research-assistant-contributing-to-driver-management-strategies-a-theoretical-framework-of-responsive-automation-and-tools-to-capture-driver-automation-interdependencies",
           title: '✨ I joined the Toyota CSRC project “Toward Responsive Driving Automation” as a...',
@@ -81,7 +76,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-invited-to-speak-at-the-automotiveui-24-workshop-what-s-beyond-safety-workshop-on-promoting-well-being-for-mobility-users-in-future-hybrid-societies-where-i-presented-prosocial-behaviors-and-rider-well-being-in-hybrid-mobility-systems",
           title: '📢 I was invited to speak at the AutomotiveUI’24 Workshop: What’s Beyond Safety?...',
           description: "",
-          section: "News",},{id: "news-our-paper-entitled-defining-prosocial-behavior-in-traffic-linking-behavior-to-perception-was-accepted-at-hfes-2025",
+          section: "News",},{id: "news-our-paper-entitled-defining-prosocial-behavior-in-traffic-linking-behavior-to-perception-was-accepted-at-hfes-2025-with-an-oral-presentation",
           title: '📝 Our paper entitled “Defining Prosocial Behavior in Traffic: Linking Behavior to Perception”...',
           description: "",
           section: "News",},{id: "projects-project-1",
