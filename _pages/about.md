@@ -3,7 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-  Ph.D. Candidate @ <a href="https://engineering.wisc.edu/departments/industrial-systems-engineering/" target="_blank">UW–Madison ISyE</a> **Human Factors · Mixed-Methods UX Researcher**<br/
+  Ph.D. Candidate @ <a href="https://engineering.wisc.edu/departments/industrial-systems-engineering/" target="_blank">UW–Madison ISyE</a> <strong>Human Factors · Mixed-Methods UX Researcher</strong><br/>
+
   
 
 profile:
@@ -11,8 +12,7 @@ profile:
   image: prof_pic3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>RM 3127</p> 
-    <p>Mechanical Engineering</p>
+    <p>3127 Mechanical Engineering</p>
     <p>1513 University Ave</p>
     <p>Madison, WI 53706</p>
 
@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: # leave blank to include all the news in the `_news` folder
   
 ---
 
