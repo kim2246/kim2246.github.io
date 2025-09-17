@@ -81,7 +81,7 @@ ninja.data = [{
           section: "News",},{id: "news-i-was-invited-to-speak-at-the-automotiveui-24-workshop-what-s-beyond-safety-workshop-on-promoting-well-being-for-mobility-users-in-future-hybrid-societies-where-i-presented-prosocial-behaviors-and-rider-well-being-in-hybrid-mobility-systems",
           title: '📢 I was invited to speak at the AutomotiveUI’24 Workshop: What’s Beyond Safety?...',
           description: "",
-          section: "News",},{id: "news-our-paper-entitled-defining-prosocial-behavior-in-traffic-linking-behavior-to-perception-was-accepted-at-hfes-2025-with-an-oral-presentation",
+          section: "News",},{id: "news-our-paper-entitled-defining-prosocial-behavior-in-traffic-linking-behavior-to-perception-was-accepted-at-hfes-2025",
           title: '📝 Our paper entitled “Defining Prosocial Behavior in Traffic: Linking Behavior to Perception”...',
           description: "",
           section: "News",},{id: "projects-project-1",
