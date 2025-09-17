@@ -31,11 +31,10 @@ latest_posts:
 
 Hi, thanks for stopping by! 👋  
 
-I specialize in **Human Factors** and **Human–Automation Interaction**, working with [Dr. John D. Lee](https://scholar.google.com/citations?user=Qd6nZCAAAAAJ&hl=en&oi=ao) as part of the Cognitive Systems Lab to study how human cognition, emotion, and behavior interact with emerging technologies.
+I specialize in **Human Factors & Human–Automation Interaction**, working with [Prof. John D. Lee](https://scholar.google.com/citations?user=Qd6nZCAAAAAJ&hl=en&oi=ao) in the Cognitive Systems Lab.  
 
-My research uses **Mixed-methods UX approaches**—from quantitative data such as simulators, VR, surveys, and physiological devices (HR and ECG) to qualitative data such as speech (interviews), text (journals, reflections)—to understand how people think, feel, and behave in complex systems. Much of this work focuses on **transportation and mobility**, where I explore how to model road users’ behaviors, well-being, safety, and overall experience.
+My research centers on designing **human–automation systems** that work seamlessly with people. I study how psychology-based interventions and prosocial interactions shape road users’ well-being, cognition, and safety — drawing on collaborative projects with the [Honda Research Institute](https://usa.honda-ri.com) and [Toyota CSRC](https://amrd.toyota.com/division/csrc). I take a **mixed-methods UX approach**, moving fluidly between quantitative measures (VR, simulators, physiological data) and qualitative insights (interviews, journaling, speech) to capture the full picture of human experience and translate it into actionable design.  
 
-I enjoy bridging human insights with design: designing experiments, building simulated traffic scenarios in **Unity**, analyzing behavioral data with **Python/R**, and translating findings into actionable design recommendations.  
+My work has been published at venues such as **HFES**, **ACM AutomotiveUI**, and **IEEE IEEM & SMC**, covering **prosocial driving, mobility well-being, and user experience with voice interfaces, conversational agents, and robotics**.  
 
-I’m passionate about **UX research roles** that connect human behavior with product and system innovation.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kim2246/) or check out my academic work on [Google Scholar](https://scholar.google.com/citations?user=wRR6mioAAAAJ&hl=en&oi=ao). ✨
+Outside of research, I enjoy golfing ⛳ and am a tea person 🍵 who loves exploring new blends as much as new ideas.
