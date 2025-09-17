@@ -52,7 +52,12 @@ ninja.data = [{
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
           
         },
-      },{id: "news-i-joined-cognitive-systems-lab-csl-under-the-supervision-of-prof-john-d-lee-as-a-phd-student",
+      },{id: "news-a-long-announcement-with-details",
+          title: 'A long announcement with details',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-i-joined-cognitive-systems-lab-csl-under-the-supervision-of-prof-john-d-lee-as-a-phd-student",
           title: '🎓 I joined Cognitive Systems Lab (CSL) under the supervision of Prof. John...',
           description: "",
           section: "News",},{id: "news-i-joined-the-toyota-csrc-project-toward-responsive-driving-automation-as-a-research-assistant-contributing-to-driver-management-strategies-a-theoretical-framework-of-responsive-automation-and-tools-to-capture-driver-automation-interdependencies",
