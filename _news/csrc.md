@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2022-09-06 12:00:00-0400
+inline: true
+related_posts: false
+---
+✨ I joined the Toyota CSRC project *"Toward Responsive Driving Automation"* as a research assistant, contributing to driver management strategies, a theoretical framework of responsive automation, and tools to capture driver–automation interdependencies.
+
