@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/
 title: publications
+permalink: /publications/
 nav: true
 nav_order: 3
 ---
@@ -14,3 +14,4 @@ nav_order: 3
 
 ## In Preparation
 {% bibliography --file papers --query @*[abbr="In Preparation"] %}
+
