@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 Our paper entitled *“Defining Prosocial Behavior in Traffic: Linking Behavior to Perception”* was accepted at **HFES 2025**!
+📝 Our paper entitled *“Defining Prosocial Behavior in Traffic: Linking Behavior to Perception”* was accepted at **HFES 2025**,  with an oral presentation!
