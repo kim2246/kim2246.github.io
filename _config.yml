@@ -296,6 +296,7 @@ enable_publication_badges:
 # Filter out certain bibtex entry keywords used internally from the bib output
 filtered_bibtex_keywords:
   [
+    abbr,
     abstract,
     additional_info,
     altmetric,
