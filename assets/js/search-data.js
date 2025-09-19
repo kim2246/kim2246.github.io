@@ -127,6 +127,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-companion-robot-interfaces-for-older-adults",
+          title: 'Companion Robot Interfaces for Older Adults',
+          description: "User-centered study on tactile &amp; visual interaction preferences for elderly-friendly companion robots",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/companion-robot/";
             },},{
         id: 'social-email',
         title: 'email',
