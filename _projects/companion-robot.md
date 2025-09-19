@@ -4,7 +4,7 @@ title: Companion Robot Interfaces for Older Adults
 date: 2020-07-15
 permalink: /projects/companion-robot/
 description: User-centered study on tactile & visual interaction preferences for elderly-friendly companion robots
-img: assets/img/companion-robot-hero.jpg
+img: assets/img/Robot1.gif
 related_publications: true
 ---
 
@@ -120,7 +120,4 @@ A multi-phase initiative to understand older adults’ needs, prototype concepts
 <div class="caption">
   Left: Calling & planning meet-ups to reduce loneliness; Right: Proactive health check and remote care workflow.
 </div>
-
-<p class="mt-4">
-  More details: <a href="https://ybkim95.github.io/tdrc.html" target="_blank" rel="noopener">TDRC project page</a>.
 </p>
