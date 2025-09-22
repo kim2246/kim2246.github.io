@@ -107,11 +107,6 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Driver-attention-emotion/";
             },},{id: "projects-companion-robot-interfaces-for-older-adults",
           title: 'Companion Robot Interfaces for Older Adults',
           description: "Experimental study on type, weight, and material preferences for elderly-friendly companion robots",
@@ -132,6 +127,11 @@ ninja.data = [{
           description: "Investigating acceptance &amp; affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and EFA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/elderly-vui/";
+            },},{id: "projects-driver-attention-amp-autonomous-vehicles",
+          title: 'Driver Attention &amp;amp; Autonomous Vehicles',
+          description: "Exploring driver emotional states, attention prediction, and driver–vehicle interaction frameworks for autonomous vehicles using deep learning, clustering, and think-aloud data",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/driver-attention-av/";
             },},{
         id: 'social-email',
         title: 'email',
