@@ -10,7 +10,7 @@ img: assets/img/Robot1.gif
 <!-- Project Meta -->
 **Venue:** AHFE International Conference on Human Factors in Robots and Unmanned Systems (2019; Springer proceedings 2020)  
 **Status:** Published  
-**Authors:** SooYeon Kim , Young Hoon Oh, and Da Young Ju  
+**Authors:** **SooYeon Kim** , Young Hoon Oh, and Da Young Ju  
 
 ---
 
