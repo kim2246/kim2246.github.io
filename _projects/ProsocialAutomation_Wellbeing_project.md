@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+title: Prosocial Automation and Well-being
+date: 2024-09-01
+permalink: /projects/prosocialAuto/
+description: Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding
+img: https://github.com/user-attachments/assets/your-thumbnail.png
 ---
 
 Every project has a beautiful feature showcase page.
