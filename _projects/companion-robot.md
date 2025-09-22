@@ -47,7 +47,7 @@ Building on the **2018 large-scale concept design study (N=244)**, which identif
 
 ## Background
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/31dc2f72-1c04-4c56-b2ca-08aaf38712d8" alt="aging context" width="600" /><br>
+  <img src="https://github.com/user-attachments/assets/31dc2f72-1c04-4c56-b2ca-08aaf38712d8" alt="aging context" width="650" /><br>
   <em>Image Source: Aging of South Korea in 2020 (Kee Whan Kim et al.)</em>
 </p>
 
