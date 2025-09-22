@@ -91,7 +91,7 @@ We combined **qualitative think-aloud protocols** with **quantitative aspect-bas
 - Proposed **prioritization framework**: address high-impact aspects (sound, charging, range) to improve EV adoption.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8962988d-0120-450f-beae-2f75a49275c9" alt="Aspect sentiment heatmap" width="650"><br>
+  <img src="https://github.com/user-attachments/assets/8962988d-0120-450f-beae-2f75a49275c9" alt="Aspect sentiment heatmap" width="400"><br>
   <em>Aspect-sentiment heatmap showing polarity across key EV attributes.</em>
 </p>
 
