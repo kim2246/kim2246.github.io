@@ -11,7 +11,7 @@ related_publications: true
 <!-- Overview -->
 **Venue:** AHFE International Conference on Human Factors in Robots and Unmanned Systems (2019; Springer proceedings 2020)  
 **Status:** Published  
-**Authors:** SooYeon Kim, Young Hoon Oh, Da Young Ju
+**Authors:** SooYeon Kim, Young Hoon Oh, and Da Young Ju
 
 ### Overview
 We investigated **tactile and visual interaction preferences** for elderly-friendly companion robots.  
@@ -33,34 +33,29 @@ Through controlled user studies with older adults, we examined how specific inte
 - Published in AHFE (Springer proceedings, 2020).
 
 ---
+## Background
 
-<!-- Image Grid (replace paths with your actual images in assets/img/) -->
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/robot_1.jpg" title="Prototype A — Soft tactile surface" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/robot_2.jpg" title="Prototype B — Visual feedback cues" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/robot_3.jpg" title="Study setup — evaluation scene" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Prototypes and lab setup used for evaluating tactile and visual interaction preferences.
-</div>
+<img width="1286" height="1050" alt="image" src="https://github.com/user-attachments/assets/31dc2f72-1c04-4c56-b2ca-08aaf38712d8" />
+Image Source: Aging of South Korea in 2020 (Kee Whan Kim et al)
 
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/robot_detail.jpg" title="Interface detail view" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/robot_flow.jpg" title="Evaluation flow" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Additional interface detail and the evaluation flow.
-</div>
+Social connections in our life help us in improving the quality and well-being of our lives. However, chances of being socially connected decrease in the cases of older adults, making them vulnerable to depression.
+In 2017, South Korea had ofcially become an aged society, with more than 14 percent of its citizens 65 years old or older. It took only 17 years after South Korea became an aging society in 2000, while Japan took 24 years for the same transition (Chosun 2017). Companion robots can satisfy their needs since they are developed as technological intervention tools by providing service, companionship, and assistance in daily life.
+In this project, our goal was to first understand the needs of older adults, evaluate the designed concepts, and finally prototype a companion robot.
+
+Research Topics
+# companion robots # elder care # living-lab experiment
+
+
+## Cocnetp Designs
+
+<img width="1776" height="346" alt="image" src="https://github.com/user-attachments/assets/205166be-930a-469c-b733-78ff9d185737" />
+<img width="892" height="714" alt="image" src="https://github.com/user-attachments/assets/2656a36b-ecf6-42a8-8da3-6de2baa072ed" />
+
+Above figure shows the collected companion robot designs from older adults and the final concept design was selected as (a) animal character type considering the design and robot functionalities. With the animal character design, we could avoid uncanny valley effect (from the previous study) and 244 older adults responded that they prefer animal (bear, dog, seal) designs. Many older adults particularly mentioned that the robot design should bring warm (like bear) and familiar (like dog) feelings to the users.
+
+## Overview
+
+
 
 ---
 
