@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Systematic Literature Review on Well-being in Hybrid Societies
+date: 2024-07-01
+permalink: /projects/SysLitReview/
+description: Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding
+img: https://github.com/user-attachments/assets/your-thumbnail.png
 ---
 
 Every project has a beautiful feature showcase page.
