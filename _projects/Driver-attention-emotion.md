@@ -45,13 +45,15 @@ Findings informed a **driver–vehicle interaction framework** that integrates a
 <p align="center">
   <img src="https://github.com/user-attachments/assets/69addd05-d67d-4576-91e5-64fb67182901" alt="Driving setup" width="420" />
   <img src="https://github.com/user-attachments/assets/a1ec190c-2ae7-48aa-83b2-8de30ad19e4d" alt="Facial expression dataset" width="400" /><br>
-  <em>Driving setup and facial expression dataset labeling (forward gaze & emotional states).</em>
+  <em>Driving setup and route.</em>
 </p>
+
+<br><br><br>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d0f5a454-d99f-4c28-b6bd-400a4ac89492" alt="Data analysis" width="400" />
   <img src="https://github.com/user-attachments/assets/3bf7b1d4-1654-425d-a328-708695f3d610" alt="Framework" width="580" /><br>
-  <em>Data analysis process and proposed framework for driver–vehicle interaction.</em>
+  <em>Facial expression dataset labeling (forward gaze & emotional states) and data analysis framework.</em>
 </p>
 
 ---
