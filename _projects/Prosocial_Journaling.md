@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+title: Reframing Prosociality via Journaling
+date: 2025-09-01
+permalink: /projects/prosocialJournal/
+description: Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding
+img: https://github.com/user-attachments/assets/your-thumbnail.png
 ---
 
 Every project has a beautiful feature showcase page.
