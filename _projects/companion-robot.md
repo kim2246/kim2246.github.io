@@ -67,21 +67,16 @@ A large-scale survey & living-lab experiment (N=244) explored older adults’ de
 
 These findings informed the **variables tested in 2019** (type, weight, material).  
 
-## Concept Functions
-<img src="https://github.com/user-attachments/assets/b468e840-19ee-454a-8e1f-150cb6de073b" alt="robot functions" width="650" />  
-
-- **Safety & independence:** misplaced item search, hazard alerts, emergency handling.  
-- **Health & care:** medication reminders, vital monitoring, telemedicine support.  
-- **Social & daily life:** family calls, event reminders, photo display, exercise prompts.  
-- **Affective rapport:** animal-like character, warm tone/voice, friendly presence.  
-
 ## User Scenario Examples
-1. **Social Connections**  
-<img src="https://github.com/user-attachments/assets/8845dbb3-bd83-42d8-86ca-53447c5eb622" alt="scenario1" width="600" />  
+<p align="center">
+  <strong>1. Social Connections</strong><br>
+  <img src="https://github.com/user-attachments/assets/8845dbb3-bd83-42d8-86ca-53447c5eb622" alt="scenario1" width="600" />
+</p>
 
-2. **Independence & Monitoring**  
-<img src="https://github.com/user-attachments/assets/d01ce005-8cf3-4beb-90f3-6de25163d6ef" alt="scenario2" width="600" />  
-
+<p align="center">
+  <strong>2. Independence & Monitoring</strong><br>
+  <img src="https://github.com/user-attachments/assets/d01ce005-8cf3-4beb-90f3-6de25163d6ef" alt="scenario2" width="600" />
+</p>
 ---
 
 ## Experiment Setup
