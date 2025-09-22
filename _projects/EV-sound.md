@@ -46,8 +46,8 @@ We combined **qualitative think-aloud protocols** with **quantitative aspect-bas
   - Sentiment scoring (TextBlob polarity); co-occurrence analysis for associated terms.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1eb5a272-8fac-4a75-8d9f-aa0481fce09b" alt="Think-aloud setup 1" width="400" /><br>
-  <img src="https://github.com/user-attachments/assets/679c3e65-a02b-4552-8c49-f7c14212690b" alt="Think-aloud setup 2" width="400" /><br>
+  <img src="https://github.com/user-attachments/assets/1eb5a272-8fac-4a75-8d9f-aa0481fce09b" alt="Think-aloud setup 1" width="500" /><br>
+  <img src="https://github.com/user-attachments/assets/679c3e65-a02b-4552-8c49-f7c14212690b" alt="Think-aloud setup 2" width="500" /><br>
   <em>Think-aloud driving experiment with Hyundai Kona EV (6.6 km, varied speed contexts) and study process.</em>
 </p>
 
@@ -62,7 +62,7 @@ We combined **qualitative think-aloud protocols** with **quantitative aspect-bas
 - **Measures:** Aspect polarity distributions; correlations with satisfaction.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8adbc2c8-1245-4feb-9a71-3bbdf18116a5" alt="ABSA pipeline" width="450"><br>
+  <img src="https://github.com/user-attachments/assets/8adbc2c8-1245-4feb-9a71-3bbdf18116a5" alt="ABSA pipeline" width="550"><br>
   <em>ABSA pipeline: aspect extraction, sentiment polarity scoring, and validation.</em>
 </p>
 
@@ -80,7 +80,7 @@ We combined **qualitative think-aloud protocols** with **quantitative aspect-bas
 - Sentiment ratios showed dissatisfaction clustered in *music (40% negative)*, *inside (30% negative)*, *noise (27% negative)*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8b806dd7-1db9-4004-9e78-07a46eecc77a" alt="UX aspects and labels" width="400"><br>
+  <img src="https://github.com/user-attachments/assets/8b806dd7-1db9-4004-9e78-07a46eecc77a" alt="UX aspects and labels" width="500"><br>
   <em>Five UX aspects with representative labels and sentiment ratios.</em>
 </p>
 
@@ -92,7 +92,7 @@ We combined **qualitative think-aloud protocols** with **quantitative aspect-bas
 - Proposed **prioritization framework**: address high-impact aspects (sound, charging, range) to improve EV adoption.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8962988d-0120-450f-beae-2f75a49275c9" alt="Aspect sentiment heatmap" width="400"><br>
+  <img src="https://github.com/user-attachments/assets/8962988d-0120-450f-beae-2f75a49275c9" alt="Aspect sentiment heatmap" width="500"><br>
   <em>Aspect-sentiment heatmap showing polarity across key EV attributes.</em>
 </p>
 
