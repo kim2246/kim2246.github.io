@@ -2,9 +2,9 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: UX/HAI research and projects that bridge psychology, data, and technology across diverse domains.
 nav: true
-nav_order: 3
+nav_order: 2
 horizontal: false
 ---
 
