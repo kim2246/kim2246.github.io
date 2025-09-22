@@ -5,7 +5,6 @@ date: 2020-02-15
 permalink: /projects/conversational-ux/
 description: Evaluating interactive TV interfaces using EEG and HRV physiological measures
 img: https://github.com/user-attachments/assets/3227f39d-6ddc-4517-ae4d-1d55c6ec1b8b
-related_publications: true
 ---
 
 <!-- Project Meta -->
@@ -47,14 +46,20 @@ This project aligned with emerging research in **affective computing** and **mul
   - **Self-report questionnaires** (NASA-TLX, satisfaction ratings).  
 - **Statistical Analysis:** ANOVA for task differences; correlation analysis between physiological and subjective measures.  
 
-<img src="https://github.com/user-attachments/assets/d343953f-687e-43d2-a466-af61e72f15e4" alt="interaction process" width="600" />  
-*The interaction process between the user and conversational agent (CA).*  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d343953f-687e-43d2-a466-af61e72f15e4" alt="interaction process" width="600" /><br>
+  <em>The interaction process between the user and conversational agent (CA).</em>
+</p>
 
-<img src="https://github.com/user-attachments/assets/01ba6d70-6aab-476d-af7f-c99d1afe29d0" alt="TV remote control and CA system" width="500" />  
-*TV remote control unit (RCU, left) and conversational agent system (CA, right) for Giga Ginnie.*  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/01ba6d70-6aab-476d-af7f-c99d1afe29d0" alt="TV remote control and CA system" width="500" /><br>
+  <em>TV remote control unit (RCU, left) and conversational agent system (CA, right) for Giga Ginnie.</em>
+</p>
 
-<img src="https://github.com/user-attachments/assets/da3ee313-90b0-48c6-b8c4-d92ab0d03e86" alt="sensors" width="600" />  
-*Sensors and software used for gathering physiological data (HR, SC, AcqKnowledge).*  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da3ee313-90b0-48c6-b8c4-d92ab0d03e86" alt="sensors" width="600" /><br>
+  <em>Sensors and software used for gathering physiological data (HR, SC, AcqKnowledge).</em>
+</p>
 
 ---
 
@@ -64,15 +69,18 @@ This project aligned with emerging research in **affective computing** and **mul
 - Demonstrated feasibility of **using physiological data as complementary UX indicators**.  
 - Proposed methodology later adopted in HCI and affective computing studies.  
 
-<img src="https://github.com/user-attachments/assets/fd430d2d-c25e-4f04-9445-6ba8d7df2d35" alt="results" width="400" />  
-*Significant difference in skin conductance (SC) between Remote control Unit (RCU) and Conversational Agent (CA)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd430d2d-c25e-4f04-9445-6ba8d7df2d35" alt="results1" width="400" /><br>
+  <em>Significant difference in skin conductance (SC) between Remote control Unit (RCU) and Conversational Agent (CA).</em>
+</p>
 
-<img src="https://github.com/user-attachments/assets/523f71cc-1405-44bf-a9e1-2224b713f108" alt="results" width="400" />
-*Upper side shows the interaction between skin conductance (SC) and Remote control unit (RCU) (a) and skin conductance (SC) and Conversational Agent (CA) (b). SC data for each task in RCU interaction (a’) and CA interaction (b’) are shown below.*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/523f71cc-1405-44bf-a9e1-2224b713f108" alt="results2" width="400" /><br>
+  <em>Upper side shows SC differences for RCU (a) vs. CA (b). Lower side shows SC data by task for RCU (a’) and CA (b’).</em>
+</p>
 
 
 ---
-
 ## References
 - Lee, S., Yun, C.H., Shin, G.W., Kim, S., & Yun, M.H. (2020). *Evaluating User Experience Using Physiological Data from Conversational Interfaces for Interactive TV.* Ergonomics Society of Korea Annual Conference.  
 
