@@ -13,7 +13,7 @@ img: https://github.com/user-attachments/assets/cc2b185f-a107-45f2-b1cc-22543e3f
 **Status:** Published  
 **Authors:**  
 - *ABSA (ESK 2020):* SooYeon Kim, Soobin Chung, Adriance Wilfred, Joong Hee Lee, Myung Hwan Yun  
-- *Think-aloud text mining (IEEM 2022):* Cai Wang, SooYeon Kim, Yein Song, Sungho Kim, Minchul Choi, Doyeon Seu, Myung Hwan Yun  
+- *Think-aloud text mining (IEEM 2022):* Cai Wang, **SooYeon Kim**, Yein Song, Sungho Kim, Minchul Choi, Doyeon Seu, Myung Hwan Yun  
 
 ---
 
