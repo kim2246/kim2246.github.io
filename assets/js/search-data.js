@@ -112,11 +112,6 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Driver-attention-emotion/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/EV-sound/";
             },},{id: "projects-companion-robot-interfaces-for-older-adults",
           title: 'Companion Robot Interfaces for Older Adults',
           description: "Experimental study on type, weight, and material preferences for elderly-friendly companion robots",
@@ -127,6 +122,11 @@ ninja.data = [{
           description: "Evaluating interactive TV interfaces using EEG and HRV physiological measures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/conversational-ux/";
+            },},{id: "projects-ev-sound-amp-driver-sentiment",
+          title: 'EV Sound &amp;amp; Driver Sentiment',
+          description: "Exploring EV UX issues via Think-aloud and Aspect-Based Sentiment Analysis (ABSA) on sound, performance, and quality",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ev-sound-sentiment/";
             },},{id: "projects-ux-of-voice-interfaces-for-elderly",
           title: 'UX of Voice Interfaces for Elderly',
           description: "Investigating acceptance &amp; affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and EFA",
