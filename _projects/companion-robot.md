@@ -77,6 +77,7 @@ These findings informed the **variables tested in 2019** (type, weight, material
   <strong>2. Independence & Monitoring</strong><br>
   <img src="https://github.com/user-attachments/assets/d01ce005-8cf3-4beb-90f3-6de25163d6ef" alt="scenario2" width="600" />
 </p>
+
 ---
 
 ## Experiment Setup
