@@ -46,14 +46,6 @@ Building on the **2018 large-scale concept design study (N=244)**, which identif
 
 ---
 
-## Outcomes
-- Lightweight (<2 kg), **soft-textured robots** are most accepted.  
-- **Microfiber consistently outperformed** silicone, synthetic fiber, and plastic.  
-- Gender and living context strongly shape acceptance patterns.  
-- Findings offer **specific, actionable design guidelines** for elderly-friendly companion robots.  
-
----
-
 ## Background
 <img src="https://github.com/user-attachments/assets/31dc2f72-1c04-4c56-b2ca-08aaf38712d8" alt="aging context" width="600" />  
 *Image Source: Aging of South Korea in 2020 (Kee Whan Kim et al.)*  
@@ -72,8 +64,6 @@ A large-scale survey & living-lab experiment (N=244) explored older adults’ de
 
 These findings informed the **variables tested in 2019** (type, weight, material).  
 
----
-
 ## Concept Functions
 <img src="https://github.com/user-attachments/assets/b468e840-19ee-454a-8e1f-150cb6de073b" alt="robot functions" width="650" />  
 
@@ -81,8 +71,6 @@ These findings informed the **variables tested in 2019** (type, weight, material
 - **Health & care:** medication reminders, vital monitoring, telemedicine support.  
 - **Social & daily life:** family calls, event reminders, photo display, exercise prompts.  
 - **Affective rapport:** animal-like character, warm tone/voice, friendly presence.  
-
----
 
 ## User Scenario Examples
 1. **Social Connections**  
@@ -93,7 +81,29 @@ These findings informed the **variables tested in 2019** (type, weight, material
 
 ---
 
+## Experiment Setup
+The questionnaire included the following items:
+Section A: Demographic information (gender, age, and living arrangement);
+Section B: Design elements (type, weight, and material of companion robots).
+
+<img width="382" height="181" alt="image" src="https://github.com/user-attachments/assets/d6734cff-692a-4ab9-929e-222f4ab01a00" />
+*Stuffed animal toys and a humanoid robot used in the Type test*
+<img width="399" height="198" alt="image" src="https://github.com/user-attachments/assets/20754c80-dfd2-4c98-9939-b4fe3db19021" />
+*Stuffed dogs are used in the Weight test*
+<img width="371" height="221" alt="image" src="https://github.com/user-attachments/assets/79d87915-c7d4-4954-9cb6-a2b26e894365" />
+*Material panel is used in the Material test*
+
+
+
+
+
+## Outcomes
+- Lightweight (<2 kg), **soft-textured robots** are most accepted.  
+- **Microfiber consistently outperformed** silicone, synthetic fiber, and plastic.  
+- Gender and living context strongly shape acceptance patterns.  
+- Findings offer **specific, actionable design guidelines** for elderly-friendly companion robots.  
+
+---
+
 ## References
 - Kim, S., Oh, Y.H., & Ju, D.Y. (2020). *A Study on the Design of Companion Robots Preferred by the Elderly.* In J. Chen (Ed.), Advances in Human Factors in Robots and Unmanned Systems, AHFE 2019, AISC 962, pp. 104–115. Springer. https://doi.org/10.1007/978-3-030-20467-9_10
-
-</p>
