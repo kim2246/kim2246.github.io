@@ -4,7 +4,7 @@ title: Persuasive Nudges in Automated Driving
 date: 2023-09-01
 permalink: /projects/persuasive-nudges/
 description: Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding
-img: https://github.com/user-attachments/assets/your-thumbnail.png
+img: https://github.com/user-attachments/assets/c14b34a6-5eaf-454a-b159-3da0fb1edc1d
 ---
 
 <!-- Project Meta -->
