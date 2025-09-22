@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Companion Robot Interfaces for Older Adults
-date: 2020-07-15
+date: 2020-01-05
 permalink: /projects/companion-robot/
 description: Experimental study on type, weight, and material preferences for elderly-friendly companion robots
 img: assets/img/Robot1.gif
-related_publications: true
 ---
 
 <!-- Project Meta -->
@@ -47,8 +46,10 @@ Building on the **2018 large-scale concept design study (N=244)**, which identif
 ---
 
 ## Background
-<img src="https://github.com/user-attachments/assets/31dc2f72-1c04-4c56-b2ca-08aaf38712d8" alt="aging context" width="600" />  
-*Image Source: Aging of South Korea in 2020 (Kee Whan Kim et al.)*  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31dc2f72-1c04-4c56-b2ca-08aaf38712d8" alt="aging context" width="600" /><br>
+  <em>Image Source: Aging of South Korea in 2020 (Kee Whan Kim et al.)</em>
+</p>
 
 South Korea became an aged society in 2017, with >14% of its citizens over 65. Older adults face higher risks of isolation and depression. Companion robots are positioned as **technological interventions** that provide assistance, safety, and companionship.  
 
@@ -59,8 +60,10 @@ A large-scale survey & living-lab experiment (N=244) explored older adults’ de
 - Desired qualities: warmth, familiarity, friendliness.  
 - Functions clustered into **safety & independence, health & care, social & daily life, and affective rapport**.  
 
-<img src="https://github.com/user-attachments/assets/205166be-930a-469c-b733-78ff9d185737" alt="concept designs" width="600" />  
-<img src="https://github.com/user-attachments/assets/2656a36b-ecf6-42a8-8da3-6de2baa072ed" alt="design selection" width="450" />  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/205166be-930a-469c-b733-78ff9d185737" alt="concept designs" width="600" /><br>
+  <img src="https://github.com/user-attachments/assets/2656a36b-ecf6-42a8-8da3-6de2baa072ed" alt="design selection" width="450" />
+</p>
 
 These findings informed the **variables tested in 2019** (type, weight, material).  
 
@@ -92,9 +95,6 @@ Section B: Design elements (type, weight, and material of companion robots).
 *Stuffed dogs are used in the Weight test*
 <img width="371" height="221" alt="image" src="https://github.com/user-attachments/assets/79d87915-c7d4-4954-9cb6-a2b26e894365" />
 *Material panel is used in the Material test*
-
-
-
 
 
 ## Outcomes
