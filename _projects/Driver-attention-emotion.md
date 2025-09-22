@@ -78,10 +78,10 @@ Findings informed a **driver–vehicle interaction framework** that integrates a
   - Identified **3 personality traits** → clustered into **Type 1 vs Type 2 drivers**.  
   - Significant ANOVA differences in driving style & sensitivity (p < .001).  
   - Think-aloud revealed distinct **perceptions & priorities** between types.  
-- **Framework:** Proposed **Driver–Vehicle Interaction System** leveraging attention, emotion, and driver types for BCI-based AV interfaces:contentReference[oaicite:1]{index=1}.  
+- **Framework:** Proposed **Driver–Vehicle Interaction System** leveraging attention, emotion, and driver types for BCI-based AV interfaces
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/924381cd-0290-4fb7-a343-eb16fe302207" alt="Driver–Vehicle Interaction Framework" width="650"><br>
+  <img src="https://github.com/user-attachments/assets/924381cd-0290-4fb7-a343-eb16fe302207" alt="Driver–Vehicle Interaction Framework" width="400"><br>
   <em>Proposed framework: integrating driver attention, emotion, type, and vehicle context for future AVs.</em>
 </p>
 
