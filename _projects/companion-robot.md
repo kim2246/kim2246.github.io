@@ -3,116 +3,86 @@ layout: page
 title: Companion Robot Interfaces for Older Adults
 date: 2020-07-15
 permalink: /projects/companion-robot/
-description: User-centered study on tactile & visual interaction preferences for elderly-friendly companion robots
+description: User-centered study on tactile & visual interaction preferences and concept design for elderly-friendly companion robots
 img: assets/img/Robot1.gif
 related_publications: true
 ---
 
-<!-- Overview -->
+<!-- Project Meta -->
 **Venue:** AHFE International Conference on Human Factors in Robots and Unmanned Systems (2019; Springer proceedings 2020)  
 **Status:** Published  
-**Authors:** SooYeon Kim, Young Hoon Oh, and Da Young Ju
-
-### Overview
-We investigated **tactile and visual interaction preferences** for elderly-friendly companion robots.  
-Through controlled user studies with older adults, we examined how specific interaction modalities shape **comfort, usability, and acceptance**.
-
-### My Role
-- Study design & protocol development  
-- Stimuli/interface variants (tactile/visual) preparation  
-- Data collection with older adults; analysis & reporting
-
-### Methods
-- **Participants:** Older adults (lab-based user study)  
-- **Measures:** Preference ratings, qualitative feedback, usability indicators  
-- **Analysis:** Descriptive + inferential statistics; design factor synthesis
-
-### Outcomes
-- Design considerations for **touch & visual cues** that improve comfort and acceptance.  
-- Actionable guidelines for elderly populations.  
-- Published in AHFE (Springer proceedings, 2020).
+**Authors:** SooYeon Kim, Young Hoon Oh, and Da Young Ju  
 
 ---
-## Background
-
-<img width="1286" height="1050" alt="image" src="https://github.com/user-attachments/assets/31dc2f72-1c04-4c56-b2ca-08aaf38712d8" />
-Image Source: Aging of South Korea in 2020 (Kee Whan Kim et al)
-
-Social connections in our life help us in improving the quality and well-being of our lives. However, chances of being socially connected decrease in the cases of older adults, making them vulnerable to depression.
-In 2017, South Korea had ofcially become an aged society, with more than 14 percent of its citizens 65 years old or older. It took only 17 years after South Korea became an aging society in 2000, while Japan took 24 years for the same transition (Chosun 2017). Companion robots can satisfy their needs since they are developed as technological intervention tools by providing service, companionship, and assistance in daily life.
-In this project, our goal was to first understand the needs of older adults, evaluate the designed concepts, and finally prototype a companion robot.
-
-Research Topics
-# companion robots # elder care # living-lab experiment
-
-
-## Cocnetp Designs
-
-<img width="1776" height="346" alt="image" src="https://github.com/user-attachments/assets/205166be-930a-469c-b733-78ff9d185737" />
-<img width="892" height="714" alt="image" src="https://github.com/user-attachments/assets/2656a36b-ecf6-42a8-8da3-6de2baa072ed" />
-
-Above figure shows the collected companion robot designs from older adults and the final concept design was selected as (a) animal character type considering the design and robot functionalities. With the animal character design, we could avoid uncanny valley effect (from the previous study) and 244 older adults responded that they prefer animal (bear, dog, seal) designs. Many older adults particularly mentioned that the robot design should bring warm (like bear) and familiar (like dog) feelings to the users.
 
 ## Overview
+This project explored **how elderly users perceive and accept companion robots**, with a focus on tactile and visual interaction modalities. We combined controlled lab studies with large-scale surveys and living-lab prototyping to understand older adults’ needs, derive design requirements, and test concept designs.  
 
-
+Our findings highlighted that **animal-inspired designs with warm and familiar aesthetics** (e.g., bear, dog, seal) mitigate the *uncanny valley effect* and increase acceptance, while specific tactile/visual cues improve comfort and usability.  
 
 ---
 
-## Related Project — TDRC Living-Lab (2018)
-Digital companion robot design program at **Yonsei University Technology and Design Research Center (TDRC)**.  
-A multi-phase initiative to understand older adults’ needs, prototype concepts, and evaluate them in a **living-lab** setting.
+## My Role
+- **Led user study design**: developed protocols for tactile/visual interaction tests with older adults.  
+- **Prepared concept stimuli**: created variants of companion robot interfaces for evaluation.  
+- **Conducted data collection & analysis**: preference ratings, qualitative feedback, and usability metrics.  
+- **Synthesized design factors** into actionable guidelines for elderly-friendly robotics.  
 
-**Project window:** April 2018 — Dec 2018  
-**Core phases:** Initial interviews, focus-group interviews, living-lab trials, concept design & prototype selection
+---
 
-### Study Flow (high level)
-- **Initial interviews:** Large-N screening with older adults to map needs/contexts  
-- **FGI:** Caregivers & active seniors to refine problem space and feasibility  
-- **Living-lab (2 weeks):** In-home instrumentation (sensors, AI speaker) to observe routines and pain points  
-- **Concept design:** Multiple visual/tactile forms → **final “animal-type” concept**
+## Methods
+- **Participants:** Older adults (lab-based user study; survey N=244).  
+- **Measures:** Preference ratings, qualitative interviews, usability indicators.  
+- **Analysis:** Descriptive & inferential statistics; thematic synthesis of user needs.  
+- **Living-Lab Evaluation:** Iterative prototyping with older adults to refine design and functionalities.  
 
-<!-- External images are fine; replace with local assets if preferred -->
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="https://ybkim95.github.io/assets/images/dori_overview.png" title="Project Overview — phases & methods" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="https://ybkim95.github.io/assets/images/dori_experiment.png" title="Participants, Sensors & In-home setup" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Left: Overall workflow; Right: Participants, instrumented home environment, and sensor set (door/motion/temperature, gateway) with AI speaker.
-</div>
+---
 
-### Companion Functions (need themes → robot features)
-- **Safety & independence:** find misplaced items; hazard/abnormality alerts; routine monitoring & emergency handling  
-- **Health & care:** medication reminders; vitals/activities monitoring; telemedicine support  
-- **Social & daily life:** call/meet friends & family; photo display; program/event reminders; exercise prompts  
-- **Affective rapport:** familiar **animal-like character**, warm tone/voice (e.g., grandchild-like), friendly presence
+## Outcomes
+- Defined **design considerations for tactile & visual interactions** that improve elderly users’ comfort and acceptance.  
+- Validated that **animal-character designs** evoke warmth and familiarity, avoiding uncanny valley effects.  
+- Derived functional requirements (safety, health monitoring, social connectivity, affective rapport) for next-generation companion robots.  
+- Published in **AHFE (Springer proceedings, 2020)**.  
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="https://ybkim95.github.io/assets/images/tdrc_concept.png" title="Concept options" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="https://ybkim95.github.io/assets/images/tdrc_concept2.png" title="Final concept — animal type (DORI)" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Multiple candidates were explored; the final pick emphasized an **animal-type character** for warmth/familiarity and to avoid uncanny valley.
-</div>
+---
 
-### Scenario Examples
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="https://ybkim95.github.io/assets/images/scenario_dori.png" title="Scenario A — Social connection" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="https://ybkim95.github.io/assets/images/scenario_dori1.png" title="Scenario B — Health check & telemedicine" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Left: Calling & planning meet-ups to reduce loneliness; Right: Proactive health check and remote care workflow.
-</div>
+## Background
+<img width="1286" height="1050" alt="aging context" src="https://github.com/user-attachments/assets/31dc2f72-1c04-4c56-b2ca-08aaf38712d8" />  
+*Image Source: Aging of South Korea in 2020 (Kee Whan Kim et al.)*  
+
+By 2017, South Korea had officially become an aged society, with over 14% of citizens 65+ years old. Rapid demographic changes increase risks of isolation and depression among older adults. Companion robots offer a technological intervention — providing daily assistance, safety monitoring, and emotional companionship.  
+
+This project addressed the critical question: **How should we design robots that older adults actually want to live with?**  
+
+---
+
+## Concept Designs
+<img width="1776" height="346" alt="designs" src="https://github.com/user-attachments/assets/205166be-930a-469c-b733-78ff9d185737" />  
+<img width="892" height="714" alt="design selection" src="https://github.com/user-attachments/assets/2656a36b-ecf6-42a8-8da3-6de2baa072ed" />  
+
+From a multi-phase initiative (survey N=244, 2018), older adults co-designed companion robot concepts. **Animal-character designs** emerged as most desirable, balancing familiarity, warmth, and functional adaptability.  
+
+**Robot Functions (mapped to user needs):**
+- **Safety & independence:** find misplaced items; hazard alerts; emergency response.  
+- **Health & care:** medication reminders; vitals monitoring; telemedicine support.  
+- **Social & daily life:** calls with family/friends; event reminders; photo display.  
+- **Affective rapport:** animal-like character, warm tone/voice, child/grandchild-like friendliness.  
+
+---
+
+## User Scenario Examples
+<img width="1604" height="1130" alt="scenario1" src="https://github.com/user-attachments/assets/8845dbb3-bd83-42d8-86ca-53447c5eb622" />  
+*Scenario 1: Maintaining social connections through calls and reminders.*  
+
+<img width="1604" height="1130" alt="scenario2" src="https://github.com/user-attachments/assets/d01ce005-8cf3-4beb-90f3-6de25163d6ef" />  
+*Scenario 2: Supporting independence and routine health monitoring.*  
+
+---
+
+## References
+- Kim, S., Oh, Y.H., & Ju, D.Y. (2020). *A Study on the Design of Companion Robots Preferred by the Elderly.* In Advances in Human Factors in Robots and Unmanned Systems (pp. 104–115). Springer.  
+
+
+
+
 </p>
