@@ -23,7 +23,7 @@ This study explored how **directive driving automation** can nudge drivers to ma
 - Demonstrated that **safety-critical contexts** strengthen the effectiveness of explanations and self-relevant framing in persuasive messages.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09619dda-c2bd-4464-93f8-46079da71d93" alt="Directive message design" width="550"><br>
+  <img src="https://github.com/user-attachments/assets/09619dda-c2bd-4464-93f8-46079da71d93" alt="Directive message design" width="650"><br>
   <em>Illustration of directive social norm messages used in the survey (varied by norm type, explanation, spatial scale, and safety criticality).</em>
 </p>
 
@@ -44,10 +44,10 @@ This study explored how **directive driving automation** can nudge drivers to ma
   - Spatial scale (*local/self vs. global/others*)  
   - Outcome criticality (*safety-critical vs. non-safety-critical*)  
 - **Procedure:** Participants compared paired directive messages (preference, effectiveness, trustworthiness, sense of control).  
-- **Analysis:** CBC modeling via multinomial logistic regression to estimate part-worth utilities of each factor:contentReference[oaicite:2]{index=2}.  
+- **Analysis:** CBC modeling via multinomial logistic regression to estimate part-worth utilities of each factor.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/82418462-9e66-4bca-8d4e-78a733eb9a68" alt="Survey conjoint example" width="400"><br>
+  <img src="https://github.com/user-attachments/assets/82418462-9e66-4bca-8d4e-78a733eb9a68" alt="Survey conjoint example" width="600"><br>
   <em>Example survey screen: participants compared directive messages and selected which they preferred/trusted.</em>
 </p>
 
@@ -61,8 +61,8 @@ This study explored how **directive driving automation** can nudge drivers to ma
 - Proposed design challenge: balance **clarity vs. informativeness**, possibly via multimodal cues (visual + haptic).  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c14b34a6-5eaf-454a-b159-3da0fb1edc1d" alt="CBC results safety" width="400" />
-  <img src="https://github.com/user-attachments/assets/f0aa24c8-7ec2-4b3c-8a6e-ab5e470ddfb0" alt="CBC results non-safety" width="400" /><br>
+  <img src="https://github.com/user-attachments/assets/c14b34a6-5eaf-454a-b159-3da0fb1edc1d" alt="CBC results safety" width="500" />
+  <img src="https://github.com/user-attachments/assets/f0aa24c8-7ec2-4b3c-8a6e-ab5e470ddfb0" alt="CBC results non-safety" width="500" /><br>
   <em>Choice-based conjoint analysis results: beta weights for message attributes in (left) safety-critical vs. (right) non-safety-critical contexts.</em>
 </p>
 
