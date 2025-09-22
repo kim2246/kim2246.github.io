@@ -129,7 +129,7 @@ ninja.data = [{
               window.location.href = "/projects/EV-sound/";
             },},{id: "projects-companion-robot-interfaces-for-older-adults",
           title: 'Companion Robot Interfaces for Older Adults',
-          description: "User-centered study on tactile &amp; visual interaction preferences for elderly-friendly companion robots",
+          description: "User-centered study on tactile &amp; visual interaction preferences and concept design for elderly-friendly companion robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/companion-robot/";
             },},{
