@@ -10,7 +10,7 @@ img: https://github.com/user-attachments/assets/3227f39d-6ddc-4517-ae4d-1d55c6ec
 <!-- Project Meta -->
 **Venue:** Ergonomics Society of Korea Annual Conference (2020)  
 **Status:** Published  
-**Authors:** Seungyeon Lee, Chan Hyeok Yun, Gee Won Shin, SooYeon Kim, and Myung Hwan Yun  
+**Authors:** Seungyeon Lee, Chan Hyeok Yun, Gee Won Shin, **SooYeon Kim**, and Myung Hwan Yun  
 
 ---
 
