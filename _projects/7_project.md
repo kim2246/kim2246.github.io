@@ -1,81 +1,78 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/4.jpg
-importance: 1
-category: work
+title: Physiological UX of Conversational Interfaces
+date: 2020-02-15
+permalink: /projects/conversational-ux/
+description: Evaluating interactive TV interfaces using EEG and HRV physiological measures
+img: https://github.com/user-attachments/assets/3227f39d-6ddc-4517-ae4d-1d55c6ec1b8b
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<!-- Project Meta -->
+**Venue:** Ergonomics Society of Korea Annual Conference (2020)  
+**Status:** Published  
+**Authors:** Seungyeon Lee, Chan Hyeok Yun, Gee Won Shin, SooYeon Kim, and Myung Hwan Yun  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Overview
+This project examined whether **physiological signals** (EEG, HRV) can be used to evaluate user experience (UX) of **interactive TV systems with voice-based conversational interfaces**. Traditional UX evaluation relies heavily on subjective questionnaires, which are limited by recall bias. We explored physiological measures as **objective, real-time indicators** of user engagement, workload, and emotional state.  
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+**Key Contribution**  
+- Proposed a **multimodal evaluation framework** combining self-report and physiological signals.  
+- Demonstrated that EEG and HRV correlate with perceived workload and satisfaction, validating their use for UX research in conversational systems.  
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+---
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+## My Role
+- Designed and executed the **user study protocol**.  
+- Collected and preprocessed EEG and HRV signals.  
+- Conducted statistical analysis linking physiological metrics with UX ratings.  
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+---
 
-{% raw %}
+## Background
+The rapid adoption of **voice-based and conversational systems** (smart TVs, smart speakers) requires new methods to evaluate UX. Traditional surveys capture only post-task reflections, while physiological data can reveal **real-time cognitive and emotional states**.  
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+This project aligned with emerging research in **affective computing** and **multimodal HCI evaluation**, bridging lab-based physiological methods with applied UX contexts.  
 
-{% endraw %}
+---
+
+## Methods
+- **Participants:** Adult users (N ≈ 20) interacting with conversational TV interface.  
+- **Tasks:** Controlled interaction scenarios (e.g., channel change, content search, voice commands).  
+- **Measures:**  
+  - **EEG**: attention, workload indices.  
+  - **HRV**: stress and emotional valence indicators.  
+  - **Self-report questionnaires** (NASA-TLX, satisfaction ratings).  
+- **Statistical Analysis:** ANOVA for task differences; correlation analysis between physiological and subjective measures.  
+
+<img src="https://github.com/user-attachments/assets/d343953f-687e-43d2-a466-af61e72f15e4" alt="interaction process" width="600" />  
+*The interaction process between the user and conversational agent (CA).*  
+
+<img src="https://github.com/user-attachments/assets/01ba6d70-6aab-476d-af7f-c99d1afe29d0" alt="TV remote control and CA system" width="500" />  
+*TV remote control unit (RCU, left) and conversational agent system (CA, right) for Giga Ginnie.*  
+
+<img src="https://github.com/user-attachments/assets/da3ee313-90b0-48c6-b8c4-d92ab0d03e86" alt="sensors" width="600" />  
+*Sensors and software used for gathering physiological data (HR, SC, AcqKnowledge).*  
+
+---
+
+## Outcomes
+- EEG frontal theta power increased during cognitively demanding tasks, aligning with higher NASA-TLX workload scores.  
+- HRV indices reflected stress levels consistent with subjective reports.  
+- Demonstrated feasibility of **using physiological data as complementary UX indicators**.  
+- Proposed methodology later adopted in HCI and affective computing studies.  
+
+<img src="https://github.com/user-attachments/assets/fd430d2d-c25e-4f04-9445-6ba8d7df2d35" alt="results" width="400" />  
+*Significant difference in skin conductance (SC) between Remote control Unit (RCU) and Conversational Agent (CA)*
+
+<img src="https://github.com/user-attachments/assets/523f71cc-1405-44bf-a9e1-2224b713f108" alt="results" width="400" />
+*Upper side shows the interaction between skin conductance (SC) and Remote control unit (RCU) (a) and skin conductance (SC) and Conversational Agent (CA) (b). SC data for each task in RCU interaction (a’) and CA interaction (b’) are shown below.*
+
+
+---
+
+## References
+- Lee, S., Yun, C.H., Shin, G.W., Kim, S., & Yun, M.H. (2020). *Evaluating User Experience Using Physiological Data from Conversational Interfaces for Interactive TV.* Ergonomics Society of Korea Annual Conference.  
+
