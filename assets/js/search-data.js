@@ -99,7 +99,7 @@ ninja.data = [{
               window.location.href = "/projects/ev-sound-sentiment/";
             },},{id: "projects-ux-of-voice-interfaces-for-elderly",
           title: 'UX of Voice Interfaces for Elderly',
-          description: "Investigating acceptance &amp; affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and EFA",
+          description: "Investigating acceptance &amp; affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and Exploratory Factor Analysis (EFA)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/elderly-vui/";
             },},{id: "projects-driver-state-monitoring-and-interaction-design-in-avs",
