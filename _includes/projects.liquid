@@ -14,7 +14,7 @@
       <div class="card-body">
         <h2 class="card-title">{{ project.title }}</h2>
 
-        {# --- 연도 표시 (date 우선, 없으면 year 폴백) --- #}
+        {% comment %} --- 연도 표시 (date 우선, 없으면 year 폴백) --- {% endcomment %}
         {% assign yyyy = nil %}
         {% if project.date %}
           {% assign yyyy = project.date | date: "%Y" %}
