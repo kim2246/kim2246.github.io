@@ -46,7 +46,7 @@ We combined **qualitative think-aloud protocols** with **quantitative aspect-bas
   - Sentiment scoring (TextBlob polarity); co-occurrence analysis for associated terms.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1eb5a272-8fac-4a75-8d9f-aa0481fce09b" alt="Think-aloud setup 1" width="400" />
+  <img src="https://github.com/user-attachments/assets/1eb5a272-8fac-4a75-8d9f-aa0481fce09b" alt="Think-aloud setup 1" width="400" /><br>
   <img src="https://github.com/user-attachments/assets/679c3e65-a02b-4552-8c49-f7c14212690b" alt="Think-aloud setup 2" width="400" /><br>
   <em>Think-aloud driving experiment with Hyundai Kona EV (6.6 km, varied speed contexts) and study process.</em>
 </p>
