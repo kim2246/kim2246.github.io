@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Driver Attention & Autonomous Vehicles
+title: Driver State Monitoring and Interaction Design in AVs
 date: 2022-10-01
 permalink: /projects/driver-attention-av/
 description: Exploring driver emotional states, attention prediction, and driver–vehicle interaction frameworks for autonomous vehicles using deep learning, clustering, and think-aloud data
-img: https://github.com/user-attachments/assets/65ee986c-c676-4b1f-8484-5b6a65261c0f   # placeholder thumbnail
+img: https://github.com/user-attachments/assets/3bf7b1d4-1654-425d-a328-708695f3d610
 ---
 
 <!-- Project Meta -->
@@ -25,7 +25,7 @@ Findings informed a **driver–vehicle interaction framework** that integrates a
 ---
 
 ## My Role
-- Led **Study 1 experiment design** (real-road driving, facial expression dataset).  
+- Led **Study 1 experiment design and analysis** (real-road driving, facial expression dataset analysis).  
 - Contributed to **driver type classification (Study 2)** via questionnaire,think-aloud analysis, and image classification.
 - Synthesized results into a **proposed driver–vehicle interaction framework**.  
 
