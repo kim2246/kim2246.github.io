@@ -112,6 +112,11 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
+            },},{id: "projects-physiological-ux-of-conversational-interfaces",
+          title: 'Physiological UX of Conversational Interfaces',
+          description: "Evaluating interactive TV interfaces using EEG and HRV physiological measures",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/conversational-ux/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
@@ -127,11 +132,6 @@ ninja.data = [{
           description: "Experimental study on type, weight, and material preferences for elderly-friendly companion robots",
           section: "Projects",handler: () => {
               window.location.href = "/projects/companion-robot/";
-            },},{id: "projects-physiological-ux-of-conversational-interfaces",
-          title: 'Physiological UX of Conversational Interfaces',
-          description: "Evaluating interactive TV interfaces using EEG and HRV physiological measures",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/conversational-ux/";
             },},{
         id: 'social-email',
         title: 'email',
