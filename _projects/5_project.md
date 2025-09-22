@@ -1,80 +1,82 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Persuasive Nudges in Automated Driving
+date: 2023-09-01
+permalink: /projects/persuasive-nudges/
+description: Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding
+img: https://github.com/user-attachments/assets/your-thumbnail.png
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<!-- Project Meta -->
+**Venue:** Human factors and Egronomics Society (HFES 2023)
+**Status:** Published  
+**Authors:** Joonbum Lee, Boyoung Kim, Hansol Rheem, Amudha V. Kamaraj, **Soo Yeon Kim**, Joshua E. Domeyer, John D. Lee, Heishiro Toyoda  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+---
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+## Overview
+This study explored how **directive driving automation** can nudge drivers to maintain the use of automated driving rather than overriding it. Using **social norm–based persuasive messages**, we tested how variations in message type, explanation, framing, and safety context influence driver preferences and trust.  
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+**Key Contribution**  
+- Introduced the concept of **directive automation**: automation influencing driver intentions toward shared goals.  
+- Showed that **descriptive norm messages** (“what most people do”) are generally more persuasive than injunctive norms (“what most people think one should do”).  
+- Demonstrated that **safety-critical contexts** strengthen the effectiveness of explanations and self-relevant framing in persuasive messages.
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09619dda-c2bd-4464-93f8-46079da71d93" alt="Directive message design" width="550"><br>
+  <em>Illustration of directive social norm messages used in the survey (varied by norm type, explanation, spatial scale, and safety criticality).</em>
+</p>
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+---
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+## My Role
+- Designed and implemented the **Qualtrics survey protocol**.  
+- Analyzed message framing effects using **choice-based conjoint (CBC) analysis** with multinomial logistic regression.  
+- Contributed to interpreting results and co-authoring implications for persuasive HMI design.  
 
-{% raw %}
+---
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Methods
+- **Participants:** 24 licensed U.S. drivers (ages 25–55; >2 yrs experience; >2,000 miles/year).  
+- **Design:** 2×2×2×2 within-subject factorial design:  
+  - Norm type (*descriptive vs. injunctive*)  
+  - Explanation (*absent vs. present*)  
+  - Spatial scale (*local/self vs. global/others*)  
+  - Outcome criticality (*safety-critical vs. non-safety-critical*)  
+- **Procedure:** Participants compared paired directive messages (preference, effectiveness, trustworthiness, sense of control).  
+- **Analysis:** CBC modeling via multinomial logistic regression to estimate part-worth utilities of each factor:contentReference[oaicite:2]{index=2}.  
 
-{% endraw %}
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/82418462-9e66-4bca-8d4e-78a733eb9a68" alt="Survey conjoint example" width="400"><br>
+  <em>Example survey screen: participants compared directive messages and selected which they preferred/trusted.</em>
+</p>
+
+---
+
+## Outcomes
+- **Descriptive norms** consistently rated more persuasive than injunctive norms.  
+- **Explanations** boosted trust and persuasiveness, especially in safety-critical conditions.  
+- **Self-relevant framing** (local crash risk) was more effective than global/other-oriented framing.  
+- Participants preferred messages that were **concise, useful, and simple**, but in safety-critical situations they also valued longer, more detailed explanations.  
+- Proposed design challenge: balance **clarity vs. informativeness**, possibly via multimodal cues (visual + haptic).  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c14b34a6-5eaf-454a-b159-3da0fb1edc1d" alt="CBC results safety" width="400" />
+  <img src="https://github.com/user-attachments/assets/f0aa24c8-7ec2-4b3c-8a6e-ab5e470ddfb0" alt="CBC results non-safety" width="400" /><br>
+  <em>Choice-based conjoint analysis results: beta weights for message attributes in (left) safety-critical vs. (right) non-safety-critical contexts.</em>
+</p>
+
+
+
+---
+
+## Design Implications
+- **Persuasive HMI:** Use **descriptive norm–based messages with self-relevant safety framing** to nudge drivers.  
+- **Context-aware:** Provide explanations primarily in **safety-critical contexts**.  
+- **Message design:** Keep content **concise but adaptive** (short prompts, expandable details, or multimodal augmentation).  
+- **Future work:** Simulator and naturalistic validation, combining norms with other nudging strategies (e.g., procedural friction).  
+
+---
+
+## References
+- Lee, J., Kim, B., Rheem, H., Kamaraj, A.V., Kim, S., Domeyer, J.E., Lee, J.D., & Toyoda, H. (2023). *Towards Directive Driving Automation: Nudging Drivers Away from Overriding Using Social Norms.*
