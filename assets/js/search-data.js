@@ -82,17 +82,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-entitled-defining-prosocial-behavior-in-traffic-linking-behavior-to-perception-was-accepted-at-hfes-2025-with-an-oral-presentation",
           title: '📝 Our paper entitled “Defining Prosocial Behavior in Traffic: Linking Behavior to Perception”...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-companion-robot-interfaces-for-older-adults",
+          section: "News",},{id: "projects-companion-robot-interfaces-for-older-adults",
           title: 'Companion Robot Interfaces for Older Adults',
           description: "Experimental study on type, weight, and material preferences for elderly-friendly companion robots",
           section: "Projects",handler: () => {
@@ -132,6 +122,16 @@ ninja.data = [{
           description: "Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prosocialAuto/";
+            },},{id: "projects-prosocial-automation-and-interdependence",
+          title: 'Prosocial Automation and Interdependence',
+          description: "Exploring EV UX issues via Think-aloud and Aspect-Based Sentiment Analysis (ABSA) on large-scale user reviews",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/interdependence/";
+            },},{id: "projects-reframing-prosociality-via-journaling",
+          title: 'Reframing Prosociality via Journaling',
+          description: "Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/prosocialJournal/";
             },},{
         id: 'social-email',
         title: 'email',
