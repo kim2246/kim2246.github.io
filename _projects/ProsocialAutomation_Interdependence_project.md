@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: true
+title: Prosocial Automation and Interdependence
+date: 2025-08-01
+permalink: /projects/interdependence/
+description: Exploring EV UX issues via Think-aloud and Aspect-Based Sentiment Analysis (ABSA) on large-scale user reviews
+img: https://github.com/user-attachments/assets/your-ev-thumbnail.png  
 ---
 
 Every project has a beautiful feature showcase page.
