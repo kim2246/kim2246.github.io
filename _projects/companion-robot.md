@@ -89,12 +89,21 @@ The questionnaire included the following items:
 Section A: Demographic information (gender, age, and living arrangement);
 Section B: Design elements (type, weight, and material of companion robots).
 
-<img width="382" height="181" alt="image" src="https://github.com/user-attachments/assets/d6734cff-692a-4ab9-929e-222f4ab01a00" />
-*Stuffed animal toys and a humanoid robot used in the Type test*
-<img width="399" height="198" alt="image" src="https://github.com/user-attachments/assets/20754c80-dfd2-4c98-9939-b4fe3db19021" />
-*Stuffed dogs are used in the Weight test*
-<img width="371" height="221" alt="image" src="https://github.com/user-attachments/assets/79d87915-c7d4-4954-9cb6-a2b26e894365" />
-*Material panel is used in the Material test*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d6734cff-692a-4ab9-929e-222f4ab01a00" alt="type test" width="400" /><br>
+  <em>Stuffed animal toys and a humanoid robot used in the Type test</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/20754c80-dfd2-4c98-9939-b4fe3db19021" alt="weight test" width="400" /><br>
+  <em>Stuffed dogs are used in the Weight test</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79d87915-c7d4-4954-9cb6-a2b26e894365" alt="material test" width="400" /><br>
+  <em>Material panel is used in the Material test</em>
+</p>
+
 
 
 ## Outcomes
