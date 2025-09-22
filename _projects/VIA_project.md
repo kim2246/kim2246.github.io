@@ -3,7 +3,7 @@ layout: page
 title: UX of Voice Interfaces for Elderly
 date: 2021-02-01
 permalink: /projects/elderly-vui/
-description: Investigating acceptance & affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and EFA
+description: Investigating acceptance & affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and Exploratory Factor Analysis (EFA)
 img: https://github.com/user-attachments/assets/0bcbd1f6-0520-4ad7-99e5-1fa3ab655739
 ---
 
