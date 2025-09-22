@@ -35,12 +35,12 @@ We investigated **which UX factors drive acceptance and emotions** when older ad
 - **Statistical Analysis:** **Exploratory Factor Analysis (EFA)** with eigenvalue > 1; component extraction & interpretation.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0a8f4bf1-9d50-4369-bf2e-b24f6b481cc3" alt="Wizard-of-Oz experimental setup" width="600"><br>
+  <img src="https://github.com/user-attachments/assets/0a8f4bf1-9d50-4369-bf2e-b24f6b481cc3" alt="Wizard-of-Oz experimental setup" width="400"><br>
   <em>Wizard-of-Oz setup with concealed operator and AI speaker on the table.</em>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/587b99cd-c87b-43a2-a396-be49798fc223" alt="Acceptance items" width="300" />
+  <img src="https://github.com/user-attachments/assets/587b99cd-c87b-43a2-a396-be49798fc223" alt="Acceptance items" width="300" /><br>
   <img src="https://github.com/user-attachments/assets/3781fbdd-ca55-4206-902c-ef447815b6f1" alt="Affect items" width="300"><br>
   <em>Sample items for acceptance (11) and affect (20) measures.</em>
 </p>
@@ -56,7 +56,7 @@ We investigated **which UX factors drive acceptance and emotions** when older ad
 - **Design implications:** Elder VUIs should (1) foster **rapport & social presence** (intimacy), (2) minimize **anxiety** via **clear, easy** flows, and (3) **signal availability** to support awareness; emotional responses depend more on **interaction quality** than device appearance.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/70ce4c27-f9a6-4c97-998a-87d3de92b5f9" alt="EFA factor structure for elderly VUI UX" width="650"><br>
+  <img src="https://github.com/user-attachments/assets/70ce4c27-f9a6-4c97-998a-87d3de92b5f9" alt="EFA factor structure for elderly VUI UX" width="400"><br>
   <em>Compact UX factor model from EFA (acceptance: 2 comps; affect: 5 comps).</em>
 </p>
 
