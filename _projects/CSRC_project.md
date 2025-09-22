@@ -10,7 +10,7 @@ img: https://github.com/user-attachments/assets/c14b34a6-5eaf-454a-b159-3da0fb1e
 <!-- Project Meta -->
 **Venue:** Human Factors and Ergonomics Society (HFES 2023)  
 **Status:** Published  
-**Authors:** Joonbum Lee, Boyoung Kim, Hansol Rheem, Amudha V. Kamaraj, Soo Yeon Kim, Joshua E. Domeyer, John D. Lee, Heishiro Toyoda
+**Authors:** Joonbum Lee, Boyoung Kim, Hansol Rheem, Amudha V. Kamaraj, **Soo Yeon Kim**, Joshua E. Domeyer, John D. Lee, Heishiro Toyoda
 
 ---
 
