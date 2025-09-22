@@ -67,7 +67,8 @@ Findings informed a **driver–vehicle interaction framework** that integrates a
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a1b1710e-fd36-4b92-a7f0-5e4889430668" alt="Driver type classification" width="450"><br>
   <em>Two driver types derived: Type 1 (enthusiastic/sensitive), Type 2 (safe/generous).</em>
-
+</p>
+  
 ---
 
 ## Outcomes
