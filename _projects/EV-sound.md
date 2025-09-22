@@ -80,9 +80,10 @@ We combined **qualitative think-aloud protocols** with **quantitative aspect-bas
 - Sentiment ratios showed dissatisfaction clustered in *music (40% negative)*, *inside (30% negative)*, *noise (27% negative)*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9725dcbe-521b-4129-9be0-449ed3233dc3" alt="UX aspects and labels" width="400"><br>
+  <img src="https://github.com/user-attachments/assets/8b806dd7-1db9-4004-9e78-07a46eecc77a" alt="UX aspects and labels" width="400"><br>
   <em>Five UX aspects with representative labels and sentiment ratios.</em>
 </p>
+
 ---
 
 ### From ABSA (ESK 2020)
