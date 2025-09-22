@@ -127,8 +127,8 @@ ninja.data = [{
           description: "Investigating acceptance &amp; affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and EFA",
           section: "Projects",handler: () => {
               window.location.href = "/projects/elderly-vui/";
-            },},{id: "projects-driver-attention-amp-autonomous-vehicles",
-          title: 'Driver Attention &amp;amp; Autonomous Vehicles',
+            },},{id: "projects-driver-state-monitoring-and-interaction-design-in-avs",
+          title: 'Driver State Monitoring and Interaction Design in AVs',
           description: "Exploring driver emotional states, attention prediction, and driver–vehicle interaction frameworks for autonomous vehicles using deep learning, clustering, and think-aloud data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/driver-attention-av/";
