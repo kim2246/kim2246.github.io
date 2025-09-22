@@ -45,7 +45,7 @@ Findings informed a **driver–vehicle interaction framework** that integrates a
 <p align="center">
   <img src="https://github.com/user-attachments/assets/69addd05-d67d-4576-91e5-64fb67182901" alt="Driving setup" width="420" />
   <img src="https://github.com/user-attachments/assets/a1ec190c-2ae7-48aa-83b2-8de30ad19e4d" alt="Facial expression dataset" width="400" /><br>
-  <em>Driving setup and route.</em>
+  <em>Driver camera setup, facial expression frames, and driving route.</em>
 </p>
 
 <br><br><br>
