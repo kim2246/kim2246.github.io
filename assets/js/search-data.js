@@ -107,11 +107,6 @@ ninja.data = [{
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
@@ -132,6 +127,11 @@ ninja.data = [{
           description: "Evaluating interactive TV interfaces using EEG and HRV physiological measures",
           section: "Projects",handler: () => {
               window.location.href = "/projects/conversational-ux/";
+            },},{id: "projects-ux-of-voice-interfaces-for-elderly",
+          title: 'UX of Voice Interfaces for Elderly',
+          description: "Investigating acceptance &amp; affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and EFA",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/elderly-vui/";
             },},{
         id: 'social-email',
         title: 'email',
