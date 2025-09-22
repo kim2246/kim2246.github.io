@@ -26,11 +26,6 @@ We combined **qualitative think-aloud protocols** with **quantitative aspect-bas
 - Identified **five core UX aspects** of EV sound (speed, mode, vehicle component, environment, sound type) and linked them with user sentiment.  
 - Provided **design guidelines** for adaptive EV sound systems and prioritization of UX-critical aspects at scale.  
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/your-framework-figure.png" alt="Mixed-methods framework" width="650"><br>
-  <em>Two-track framework: Think-aloud (qual) + ABSA (quant) → convergent EV UX insights.</em>
-</p>
-
 ---
 
 ## My Role
