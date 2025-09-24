@@ -61,8 +61,8 @@ This study explored how **directive driving automation** can nudge drivers to ma
 - Proposed design challenge: balance **clarity vs. informativeness**, possibly via multimodal cues (visual + haptic).  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c14b34a6-5eaf-454a-b159-3da0fb1edc1d" alt="CBC results safety" width="450" />
-  <img src="https://github.com/user-attachments/assets/f0aa24c8-7ec2-4b3c-8a6e-ab5e470ddfb0" alt="CBC results non-safety" width="450" /><br>
+  <img src="https://github.com/user-attachments/assets/c14b34a6-5eaf-454a-b159-3da0fb1edc1d" alt="CBC results safety" width="400" />
+  <img src="https://github.com/user-attachments/assets/f0aa24c8-7ec2-4b3c-8a6e-ab5e470ddfb0" alt="CBC results non-safety" width="400" /><br>
   <em>Choice-based conjoint analysis results: beta weights for message attributes in (left) safety-critical vs. (right) non-safety-critical contexts.</em>
 </p>
 
