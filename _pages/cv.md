@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: SooYeon_CV_2025.pdf # you can also use external links here
+cv_pdf: SooYeon_CV_2025_09.pdf # you can also use external links here
 sidebar: left
 description:
 ---
