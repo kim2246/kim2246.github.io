@@ -1,12 +1,12 @@
 ---
 layout: page
-title: A Systematic Review of Well-being in Hybrid Societies: AI, Transportation, and Road Users
-date: 2025-10-06
+title: "A Systematic Review of Well-being in Hybrid Societies: AI, Transportation, and Road Users"
+date: 2024-10-06
 permalink: /projects/hybrid-wellbeing-review/
-description: PRISMA-guided systematic review (2000–2025) on how AI/automation in mixed traffic shapes road-user well-being across psychological, physical, social, and time-use dimensions—plus design/policy implications for prosocial automation and trust calibration.
-img: https://github.com/user-attachments/assets/a5a19d1e-4cfe-4594-b3c6-585a3840e299
-
+description: "PRISMA-guided systematic review (2000–2025) on how AI/automation in mixed traffic shapes road-user well-being across psychological, physical, social, and time-use dimensions—plus design/policy implications for prosocial automation and trust calibration."
+img: "https://github.com/user-attachments/assets/a5a19d1e-4cfe-4594-b3c6-585a3840e299"
 ---
+
 
 <!-- Project Meta -->
 
