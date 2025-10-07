@@ -7,9 +7,7 @@ description: "PRISMA-guided systematic review (2000–2025) on how AI/automation
 img: "https://github.com/user-attachments/assets/a5a19d1e-4cfe-4594-b3c6-585a3840e299"
 ---
 
-
 <!-- Project Meta -->
-
 **Venue:** Human Factors (target journal)
 **Status:** In preparation (2025)
 **Lead:** **Soo Yeon Kim** and John D. Lee
@@ -27,7 +25,6 @@ This project synthesizes evidence on **how AI/automation affects road-user well-
 * Designed **search strategy & screening protocol** (PRISMA 2020).
 * Led **full-text coding & evidence synthesis**; built a measurement inventory (WHO-5, STS, PANAS, WEMWBS).
 * Authored **design & policy implications** (e.g., eHMI, takeover UX, driver education).
-* Produced **figures** (PRISMA flow, measurement table, 4-pillar framework).
 
 ---
 
@@ -132,7 +129,7 @@ Validated instruments recur across the literature:
 | **Teodorovicz et al. (2022)** — **Online survey** (N≈400 commuting knowledge workers) | Manual commuting now; **anticipated** activities in **future fully self-driving** cars                                  | Current vs. desired commute activities; attitudes about using commute time                     | Participants expect a safe AV would enable **productive/leisure “me time”** → potential **life-satisfaction ↑**. **Trust/reliability** is the hinge: benefits appear **only if** they can divert attention **without anxiety**. [10][11]                                                                                      |
 | **Jayaraman et al. (2019)** — **VR experiment** on pedestrian–AV crossing             | Pedestrians cross in front of an approaching **AV**; **defensive vs. aggressive** AV style; with/without traffic signal | **Trust** in AV; crossing hesitation/time                                                      | **Defensive** AV + **conventional signal** → **trust ↑** and more willing/decisive crossing. **Aggressive** AV without clear signals → **trust ↓** and hesitation ↑. Well-being for vulnerable road users depends on **clear, predictable** AV behavior. [8]                                                                  |
 
-> **Notes:** L2 = Level 2 partial automation; AV = automated vehicle. Bracketed numbers (e.g., [8], [24]) refer to your project’s reference list.
+> **Notes:** L2 = Level 2 partial automation; AV = automated vehicle. Bracketed numbers (e.g., [8], [24]) refer to my paper reference list.
 
 ## Selected Examples (Design Patterns)
 
