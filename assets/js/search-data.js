@@ -117,8 +117,8 @@ ninja.data = [{
           description: "Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prosocialAuto/";
-            },},{id: "projects-a-systematic-review-of-well-being-in-hybrid-societies-ai-transportation-and-road-users",
-          title: 'A Systematic Review of Well-being in Hybrid Societies: AI, Transportation, and Road Users...',
+            },},{id: "projects-a-systematic-review-of-well-being-in-hybrid-mobility-systems-societies-ai-and-road-users",
+          title: 'A Systematic Review of Well-being in Hybrid Mobility Systems Societies: AI and Road...',
           description: "PRISMA-guided systematic review (2000–2025) on how AI/automation in mixed traffic shapes road-user well-being across psychological, physical, social, and time-use dimensions—plus design/policy implications for prosocial automation and trust calibration.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hybrid-wellbeing-review/";
