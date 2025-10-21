@@ -122,11 +122,6 @@ ninja.data = [{
           description: "PRISMA-guided systematic review (2000–2025) on how AI/automation in mixed traffic shapes road-user well-being across psychological, physical, social, and time-use dimensions—plus design/policy implications for prosocial automation and trust calibration.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hybrid-wellbeing-review/";
-            },},{id: "projects-reframing-prosociality-via-journaling",
-          title: 'Reframing Prosociality via Journaling',
-          description: "Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/prosocialJournal/";
             },},{
         id: 'social-email',
         title: 'email',
