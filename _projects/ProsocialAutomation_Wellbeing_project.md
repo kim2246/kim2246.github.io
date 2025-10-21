@@ -33,7 +33,7 @@ Together, **ART + Game Theory** establish a novel **social-cognitive framework f
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b0a5983e-de68-4638-8094-1d22f8ce0dc6" width="1852" height="694"><br>
+  <img src="https://github.com/user-attachments/assets/b0a5983e-de68-4638-8094-1d22f8ce0dc6" width="500"><br>
   <em>Measuring Cognition as an Indicator of Well-being</em>
 </p>
 
@@ -65,7 +65,7 @@ Together, **ART + Game Theory** establish a novel **social-cognitive framework f
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/935fe463-2c1a-497f-b863-40dd758e871d" width="1839" height="712"><br>
+  <img src="https://github.com/user-attachments/assets/935fe463-2c1a-497f-b863-40dd758e871d" width="450"><br>
   <em>Experimental Procedure.</em>
 </p>
 
@@ -80,7 +80,7 @@ Together, **ART + Game Theory** establish a novel **social-cognitive framework f
 - **Distance to Pedestrian:** Under time-pressed prosocial conditions, riders kept *shorter gaps* (−12.8 m, p < .001), demonstrating trust and predictability.  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/44286f34-082f-48d2-b47c-299fc3fbf3ad" width="788" height="738"><br>
+  <img src="https://github.com/user-attachments/assets/44286f34-082f-48d2-b47c-299fc3fbf3ad" width="400"><br>
   <em>Behavioral responses: decreased TTC and smoother velocity profiles under prosocial exposure, especially under time pressure.</em>
 </p>
 
@@ -96,8 +96,8 @@ Together, **ART + Game Theory** establish a novel **social-cognitive framework f
 - **Ride Quality:** Increased significantly under prosocial conditions with time pressure (β = 0.56, p < .05).  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4c56b906-01ca-4de7-9ed1-796cd85efa09" width="1534" height="475"><br>
-    <img src="https://github.com/user-attachments/assets/436f0db0-1927-4f73-8847-b711d19f6b72" width="1132" height="366"><br>
+  <img src="https://github.com/user-attachments/assets/4c56b906-01ca-4de7-9ed1-796cd85efa09" width="400"><br>
+    <img src="https://github.com/user-attachments/assets/436f0db0-1927-4f73-8847-b711d19f6b72" width="400"><br>
   <em>Changes in subjective well-being: lower negative affect, reduced perceived risk, and improved ride quality with prosocial interactions.</em>
 </p>
 
