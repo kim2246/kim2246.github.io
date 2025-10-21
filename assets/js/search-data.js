@@ -82,12 +82,7 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-entitled-defining-prosocial-behavior-in-traffic-linking-behavior-to-perception-was-accepted-at-hfes-2025-with-an-oral-presentation",
           title: '📝 Our paper entitled “Defining Prosocial Behavior in Traffic: Linking Behavior to Perception”...',
           description: "",
-          section: "News",},{id: "projects-companion-robot-interfaces-for-older-adults",
-          title: 'Companion Robot Interfaces for Older Adults',
-          description: "Experimental study on type, weight, and material preferences for elderly-friendly companion robots",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/companion-robot/";
-            },},{id: "projects-physiological-ux-of-conversational-interfaces",
+          section: "News",},{id: "projects-physiological-ux-of-conversational-interfaces",
           title: 'Physiological UX of Conversational Interfaces',
           description: "Evaluating interactive TV interfaces using EEG and HRV physiological measures",
           section: "Projects",handler: () => {
@@ -97,11 +92,6 @@ ninja.data = [{
           description: "Exploring EV UX issues via Think-aloud and Aspect-Based Sentiment Analysis (ABSA) on sound, performance, and quality",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ev-sound-sentiment/";
-            },},{id: "projects-ux-of-voice-interfaces-for-elderly",
-          title: 'UX of Voice Interfaces for Elderly',
-          description: "Investigating acceptance &amp; affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and Exploratory Factor Analysis (EFA)",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/elderly-vui/";
             },},{id: "projects-driver-state-monitoring-and-interaction-design-in-avs",
           title: 'Driver State Monitoring and Interaction Design in AVs',
           description: "Exploring driver emotional states, attention prediction, and driver–vehicle interaction frameworks for autonomous vehicles using deep learning, clustering, and think-aloud data",
@@ -112,11 +102,21 @@ ninja.data = [{
           description: "Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding",
           section: "Projects",handler: () => {
               window.location.href = "/projects/persuasive-nudges/";
-            },},{id: "projects-prosocial-automation-and-well-being",
-          title: 'Prosocial Automation and Well-being',
-          description: "Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/prosocialAuto/";
+              window.location.href = "/projects/ProsocialAutomation_Wellbeing_project/";
+            },},{id: "projects-companion-robot-interfaces-for-older-adults",
+          title: 'Companion Robot Interfaces for Older Adults',
+          description: "Experimental study on type, weight, and material preferences for elderly-friendly companion robots",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/companion-robot/";
+            },},{id: "projects-ux-of-voice-interfaces-for-elderly",
+          title: 'UX of Voice Interfaces for Elderly',
+          description: "Investigating acceptance &amp; affective UX factors of AI voice interfaces for older adults via Wizard-of-Oz and Exploratory Factor Analysis (EFA)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/elderly-vui/";
             },},{id: "projects-a-systematic-review-of-well-being-in-hybrid-mobility-systems-societies-ai-and-road-users",
           title: 'A Systematic Review of Well-being in Hybrid Mobility Systems Societies: AI and Road...',
           description: "PRISMA-guided systematic review (2000–2025) on how AI/automation in mixed traffic shapes road-user well-being across psychological, physical, social, and time-use dimensions—plus design/policy implications for prosocial automation and trust calibration.",
