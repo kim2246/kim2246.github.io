@@ -112,8 +112,8 @@ ninja.data = [{
           description: "Exploring how social norm messages can persuade drivers to continue using driving automation instead of overriding",
           section: "Projects",handler: () => {
               window.location.href = "/projects/persuasive-nudges/";
-            },},{id: "projects-prosociality-matters-how-prosocial-behavior-shapes-well-being-in-interdependent-road-situations",
-          title: 'Prosociality Matters: How Prosocial Behavior Shapes Well-being in Interdependent Road Situations',
+            },},{id: "projects-how-prosocial-behavior-shapes-well-being-in-interdependent-road-situations",
+          title: 'How Prosocial Behavior Shapes Well-being in Interdependent Road Situations',
           description: "Integrating Attention Restoration Theory and Game Theory to examine how prosocial interactions in interdependent mobility environments influence riders’ cognition, affect, and well-being.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prosociality-matters/";
