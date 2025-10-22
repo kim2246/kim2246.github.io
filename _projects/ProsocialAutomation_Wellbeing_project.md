@@ -4,7 +4,7 @@ title: "Prosociality Matters: How Prosocial Behavior Shapes Well-being in Interd
 date: 2024-09-25
 permalink: "/projects/prosociality-matters/"
 description: "Integrating Attention Restoration Theory and Game Theory to examine how prosocial interactions in interdependent mobility environments influence riders’ cognition, affect, and well-being."
-img: "https://github.com/user-attachments/assets/d86988a7-72ba-460c-9b73-510271311aab"
+img: "https://github.com/user-attachments/assets/e711cbf8-4397-4b6a-80d8-2afe5699a07d"
 ---
 
 <!-- Project Meta -->
