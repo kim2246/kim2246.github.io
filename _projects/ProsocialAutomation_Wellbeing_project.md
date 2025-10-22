@@ -4,7 +4,7 @@ title: Prosociality Matters: How Prosocial Behavior Shapes Well-being in Interde
 date: 2024-09-25
 permalink: /projects/prosociality-matters/
 description: Integrating Attention Restoration Theory and Game Theory to examine how prosocial interactions in interdependent mobility environments influence riders’ cognition, affect, and well-being.
-img: https://github.com/user-attachments/assets/31cf81b1-3db7-40fd-a36a-8b2f4e8c993c
+img: https://github.com/user-attachments/assets/d86988a7-72ba-460c-9b73-510271311aab
 ---
 
 <!-- Project Meta -->
@@ -33,7 +33,7 @@ Together, **ART + Game Theory** establish a novel **social-cognitive framework f
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b0a5983e-de68-4638-8094-1d22f8ce0dc6" width="500"><br>
+  <img src="https://github.com/user-attachments/assets/b0a5983e-de68-4638-8094-1d22f8ce0dc6" width="700"><br>
   <em>Measuring Cognition as an Indicator of Well-being</em>
 </p>
 
@@ -65,7 +65,7 @@ Together, **ART + Game Theory** establish a novel **social-cognitive framework f
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/935fe463-2c1a-497f-b863-40dd758e871d" width="450"><br>
+  <img src="https://github.com/user-attachments/assets/935fe463-2c1a-497f-b863-40dd758e871d" width="700"><br>
   <em>Experimental Procedure.</em>
 </p>
 
