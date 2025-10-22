@@ -7,6 +7,14 @@ description: "Integrating Attention Restoration Theory and Game Theory to examin
 img: "https://github.com/user-attachments/assets/e711cbf8-4397-4b6a-80d8-2afe5699a07d"
 ---
 
+<p align="center">
+  <img src="{{ page.img }}" alt="{{ page.title }}" style="width: 300px; height: auto; border-radius: 10px;">
+  <br>
+  <em>Experimental scenarios: Approaching, Merging, and Crossing.</em>
+</p>
+
+---
+
 <!-- Project Meta -->
 **Venue:** AutomotiveUI 2024 (Stanford, CA)  
 **Status:** Published  
