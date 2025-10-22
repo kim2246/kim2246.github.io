@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prosociality Matters: How Prosocial Behavior Shapes Well-being in Interdependent Road Situations"
+title: "How Prosocial Behavior Shapes Well-being in Interdependent Road Situations"
 date: 2024-09-25
 permalink: "/projects/prosociality-matters/"
 description: "Integrating Attention Restoration Theory and Game Theory to examine how prosocial interactions in interdependent mobility environments influence riders’ cognition, affect, and well-being."
