@@ -26,12 +26,10 @@ announcements:
   
 ---
 
-Hi, thanks for stopping by! 👋  
+Hi, thanks for stopping by!  
 
 I specialize in **Human–Automation Interaction**, working with [Prof. John D. Lee](https://scholar.google.com/citations?user=Qd6nZCAAAAAJ&hl=en&oi=ao) in the Cognitive Systems Lab.  
 
 My research centers on designing **human–automation systems** that work seamlessly with people. I study how theory-driven psychological interventions and interaction design shape road users’ well-being, cognition, behavior, and safety, in collaboration with the [Honda Research Institute](https://usa.honda-ri.com) and [Toyota CSRC](https://amrd.toyota.com/division/csrc). I take a **mixed-methods UX approach**, moving fluidly between quantitative measures (VR, simulators, physiological data) and qualitative insights (interviews, journaling, and text relfections) to capture the full picture of human experience and translate it into actionable design.  
 
-My work has been published at venues such as **HFES**, **ACM AutomotiveUI**, and **IEEE IEEM & SMC**, covering prosocial driving, mobility well-being, and user experience with voice interfaces, conversational agents, and robotics.  
-
-Outside of research, I enjoy golfing ⛳ and am a tea person 🍵 who loves exploring new blends as much as new ideas.
+My work has been published at venues such as **HFES**, **ACM AutomotiveUI**, and **IEEE IEEM & SMC**, covering prosocial driving, mobility well-being, and user experience with voice interfaces, conversational agents, and robotics.
