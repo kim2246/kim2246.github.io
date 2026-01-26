@@ -1,15 +1,15 @@
 ---
 layout: page
-title: "A Systematic Review of Well-being in Hybrid Mobility Systems Societies: AI and Road Users"
-date: 2024-10-06
+title: "A Systematic Review of Well-Being: AI, Automation, and Road Users"
+date: 2025-12-06
 permalink: /projects/hybrid-wellbeing-review/
-description: "PRISMA-guided systematic review (2000–2025) on how AI/automation in mixed traffic shapes road-user well-being across psychological, physical, social, and time-use dimensions—plus design/policy implications for prosocial automation and trust calibration."
-img: "https://github.com/user-attachments/assets/a5a19d1e-4cfe-4594-b3c6-585a3840e299"
+description: "A PRISMA-based systematic review (1980–2025) synthesizing how well-being is conceptualized, measured, and shaped in hybrid mobility systems where humans and AI-driven vehicles interact, with a special focus on neglected social and prosocial dynamics. The project identifies physical, psychological, and social dimensions of road-user well-being and proposes design implications for emotionally supportive, socially attuned human–AI traffic systems."
+img: "https://github.com/user-attachments/assets/a70ad0dd-53bc-4efb-81b4-0aca78785b21"
 ---
 
 <!-- Project Meta -->
 **Venue:** Human Factors (target journal)
-**Status:** In preparation (2025)
+**Status:** In preparation (2026)
 **Lead:** **Soo Yeon Kim** and John D. Lee
 
 ---
