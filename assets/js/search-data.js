@@ -117,9 +117,9 @@ ninja.data = [{
           description: "Integrating Attention Restoration Theory and Game Theory to examine how prosocial interactions in interdependent mobility environments influence riders’ cognition, affect, and well-being.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/prosociality-matters/";
-            },},{id: "projects-a-systematic-review-of-well-being-in-hybrid-mobility-systems-societies-ai-and-road-users",
-          title: 'A Systematic Review of Well-being in Hybrid Mobility Systems Societies: AI and Road...',
-          description: "PRISMA-guided systematic review (2000–2025) on how AI/automation in mixed traffic shapes road-user well-being across psychological, physical, social, and time-use dimensions—plus design/policy implications for prosocial automation and trust calibration.",
+            },},{id: "projects-a-systematic-review-of-well-being-ai-automation-and-road-users",
+          title: 'A Systematic Review of Well-Being: AI, Automation, and Road Users',
+          description: "A PRISMA-based systematic review (1980–2025) synthesizing how well-being is conceptualized, measured, and shaped in hybrid mobility systems where humans and AI-driven vehicles interact, with a special focus on neglected social and prosocial dynamics. The project identifies physical, psychological, and social dimensions of road-user well-being and proposes design implications for emotionally supportive, socially attuned human–AI traffic systems.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/hybrid-wellbeing-review/";
             },},{
